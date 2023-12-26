@@ -1,4 +1,4 @@
-package com.example.SpringDemo.hello;
+package com.example.SpringDemo.learning;
 
 import java.net.URI;
 import java.net.http.HttpClient;
